@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="771f6cdb-00e6-424c-95f3-a3f81992f31e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/quizzes.sqlite" />
-    </list>
+    <list default="true" id="771f6cdb-00e6-424c-95f3-a3f81992f31e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -167,12 +165,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527102553714</updated>
-      <workItem from="1527102560415" duration="1107000" />
+      <workItem from="1527102560415" duration="1239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1107000" />
+    <option name="totallyTimeSpent" value="1239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
